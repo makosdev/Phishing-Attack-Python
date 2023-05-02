@@ -13,7 +13,7 @@ To use this script, open the file in a Python IDE or text editor and replace the
 It is important to note that using this code for any illegal or unethical activities, including phishing attacks, is strictly prohibited. This code is provided for educational purposes only and serves as a demonstration of how attackers can use technology to exploit human vulnerabilities. 
 
 ## Youtube Video
-[Video](yt.com)
+[Video](https://youtu.be/zTn_DjQ79bg)
 
 ## License
 
